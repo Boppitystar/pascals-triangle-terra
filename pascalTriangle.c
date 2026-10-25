@@ -77,7 +77,6 @@ int choose(int n, int r){
 
 /**
  * Parameters: non negative integer
- * ASKKKK IF THIS IS PROPER FOR PURPOSE  
  * Purpose: returns the calculated factorial of the non negative integer
  */
 int factorial(int number){
